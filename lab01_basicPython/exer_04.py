@@ -12,3 +12,5 @@ for i in range(1, N + 1):
 
 # Print the result
 print("The sum of squares from 1 to", N, "is:", sum_of_squares)
+
+# these series ----- 1 + 2*2  + 3*3 + 4*4 + ......+ n*n 
