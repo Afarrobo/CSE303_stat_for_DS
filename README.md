@@ -4,4 +4,5 @@ Instructor Information**\_**
 
 Instructor:
 Puja Chakraborty
+<br>
 Lecturer, Department of Computer Science and Engineering
