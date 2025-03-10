@@ -1,4 +1,4 @@
-<h2> Here CSE 303: (Statistics for Data Scienc) all lab work available </h2>
+<h2> CSE 303: (Statistics for Data Science) all lab work available </h2>
 
 <h3> Instructor Information**\_** </h3>
 
